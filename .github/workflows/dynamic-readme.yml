@@ -1,0 +1,13 @@
+name: Uses the Dynamic README reusable worfklow
+
+on: [push]
+
+jobs:
+  update-templates:
+    permissions:
+      contents: write
+      pull-requests: write
+      pages: write
+    uses: thoughtbot/templates/.github/workflows/dynamic-readme.yaml@0fde2649b0cea40ed455b7b0d6550e788cc1c7e1
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
