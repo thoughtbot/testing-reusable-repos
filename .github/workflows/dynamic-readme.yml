@@ -1,4 +1,4 @@
-name: Uses the Dynamic README reusable worfklow
+name: update-templates
 
 on: [push]
 
