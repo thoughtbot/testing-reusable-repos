@@ -9,11 +9,10 @@ The README will then be updated to use the markdown content from this file: http
 
 ![thoughtbot](https://thoughtbot.com/thoughtbot-logo-for-readmes.svg)
 
-This repo is maintained and funded by thoughtbot, inc.
+This repo is maintained and sponsored by thoughtbot, inc.
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
-We love open source software!
-See [our other projects][community].
+We love open source software! See [our other projects][community].
 We are [available for hire][hire].
 
 [community]: https://thoughtbot.com/community?utm_source=github
