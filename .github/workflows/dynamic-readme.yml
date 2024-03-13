@@ -8,6 +8,6 @@ jobs:
       contents: write
       pull-requests: write
       pages: write
-    uses: thoughtbot/templates/.github/workflows/dynamic-readme.yaml@e3ee3f98e84a09d78a836fce565dc04eddf509d2
+    uses: thoughtbot/templates/.github/workflows/dynamic-readme.yaml@main
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
