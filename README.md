@@ -4,6 +4,8 @@ This is an example of how to use the Dynamic README reusable workflow from https
 
 The README will then be updated to use the markdown content from this file: https://github.com/thoughtbot/templates/blob/main/templates/footer.md
 
+Our templates repo also has an action to propagate changes made in the template file to repos calling the reusable worfklow.
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
